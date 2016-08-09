@@ -146,7 +146,7 @@ teams = [
     ['SD', 'San Diego', 'Chargers', 'San Diego Chargers', 'S.D.', 'SDG'],
     ['SEA', 'Seattle', 'Seahawks', 'Seattle Seahawks'],
     ['SF', 'San Francisco', '49ers', 'San Francisco 49ers', 'S.F.', 'SFO'],
-    ['STL', 'St. Louis', 'Rams', 'St. Louis Rams', 'S.T.L.'],
+    ['LA', 'Los Angeles', 'Rams', 'Los Angeles Rams', 'L.A.'],
     ['TB', 'Tampa Bay', 'Buccaneers', 'Tampa Bay Buccaneers', 'T.B.', 'TAM'],
     ['TEN', 'Tennessee', 'Titans', 'Tennessee Titans'],
     ['WAS', 'Washington', 'Redskins', 'Washington Redskins', 'WSH'],
